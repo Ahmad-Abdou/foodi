@@ -8,7 +8,6 @@
 		<version>2.5.6</version>
 		<relativePath/> <!-- lookup parent from com.food.food.repository -->
 	</parent>
-
 	<groupId>com.food</groupId>
 	<artifactId>food</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
